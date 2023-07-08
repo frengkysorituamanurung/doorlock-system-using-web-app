@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<humans>
+<!-- MASTER MENU -->
+<menu><id>A</id><s>0</s><t>s</t><i>fa fa-home</i><n>Home</n><l>../home/index.php</l></menu>
+<!-- SETTING -->
+    <menu><id>B</id><s>B</s><t>m</t><i>fa fa-calendar</i><n>Jadwal </n><l>../data_jadwal/index.php</l></menu>
+        <menu><id></id><s>B</s><t>sm</t><i>fa fa-edit</i><n>Pengajuan Jadwal </n><l>../data_jadwal/index.php?input=tambah</l></menu>
+        <menu><id></id><s>B</s><t>sm</t><i>fa fa-edit</i><n>List Jadwal </n><l>../data_jadwal/index.php</l></menu>
+
+
+<!--    <menu><id>F</id><s>F</s><t>s</t><i>fa fa-clone</i><n>Manual Open </n><l>../data_manual_open/index.php</l></menu>-->
+
+
+
+<menu><id>G</id><s>0</s><t>m</t><i>fa fa-file</i><n>Laporan</n><l>#</l></menu>
+    <menu><id></id><s>G</s><t>sm</t><i>fa fa-edit</i><n>List Jadwal </n><l>../data_jadwal/index.php?input=cetak</l></menu>
+
+
+
+<!-- LAPORAN -->
+<!--<menu><id></id><s>C</s><t>sm</t><i>fa fa-calendar</i><n>Data Jadwal </n><l>../data_jadwal/index.php?input=cetak</l></menu>-->
+<!--<menu><id></id><s>C</s><t>sm</t><i>fa fa-calendar</i><n>Data Manual Open </n><l>../data_manual_open/index.php?input=cetak</l></menu>-->
+<!--<menu><id></id><s>C</s><t>sm</t><i>fa fa-calendar</i><n>Data Role </n><l>../data_role/index.php?input=cetak</l></menu>-->
+<!--<menu><id></id><s>C</s><t>sm</t><i>fa fa-calendar</i><n>Data Ruangan </n><l>../data_ruangan/index.php?input=cetak</l></menu>-->
+<!--<menu><id></id><s>C</s><t>sm</t><i>fa fa-calendar</i><n>Data User </n><l>../data_user/index.php?input=cetak</l></menu>-->
+
+
+</humans>
